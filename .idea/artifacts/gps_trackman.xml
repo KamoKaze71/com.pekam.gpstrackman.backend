@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="gps-trackman">
+    <output-path>$PROJECT_DIR$/out/artifacts/gps_trackman</output-path>
+    <root id="archive" name="gps-trackman.war">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/gps-trackman-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
